@@ -1,2 +1,6 @@
-# hello-world
-This is an example of how to work with Git and Github
+# Shopping-List
+-eggs
+-cheese
+-vegetables
+-dog food
+-keyboard
